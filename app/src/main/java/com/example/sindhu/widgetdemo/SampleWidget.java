@@ -15,7 +15,7 @@ public class SampleWidget extends AppWidgetProvider {
                          int[] appWidgetIds) {
         for (int widgetId:appWidgetIds){
             sp=context.getSharedPreferences(context.getPackageName(),Context.MODE_PRIVATE);
-            String s=sp.getString("fruit","No fruit selected");
+            String s=sp.getString("fruit","No fruit Names selected");
             Intent intent=new Intent(context,MainActivity.class);
             PendingIntent pendingIntent=PendingIntent.getActivity(context,
                     2,intent,0);
