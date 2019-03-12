@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Widget Demo</string>
+    <string-array name="names_array">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>carrot</item>
+        <item>papaya</item>
+        <item>orange</item>
+        <item>grapes</item>
+        <item>guava</item>
+        <item>watermelon</item>
+        <item>jackfruit</item>
+    </string-array>
+</resources>
