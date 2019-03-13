@@ -8,4 +8,4 @@ when you click on widget text the main activity of app will be launched.
 <br><br>
 **Usage**<br><br>
 Just have a look at the code, or better still, clone it to a local repository in your machine:<br>
-```https://github.com/poornasindhuja/WidgetDemo```
+```git clone https://github.com/poornasindhuja/WidgetDemo.git```
